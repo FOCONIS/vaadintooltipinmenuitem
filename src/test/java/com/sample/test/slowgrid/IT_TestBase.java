@@ -9,7 +9,6 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
-import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
@@ -17,7 +16,6 @@ import org.openqa.selenium.interactions.Actions;
 import com.vaadin.testbench.By;
 import com.vaadin.testbench.TestBenchTestCase;
 import com.vaadin.testbench.elements.ButtonElement;
-import com.vaadin.testbench.elements.ComboBoxElement;
 import com.vaadin.testbench.elements.MenuBarElement;
 import com.vaadin.testbench.elements.WindowElement;
 

@@ -3,7 +3,7 @@ vaadintooltipinmenuitem
 
 This demo was derived from a Vaadin Template for Testbench to:
 
-Demonstrate the problem in Vaadin GitHub issue #11212 - The Tooltip of a MenuItem inside a Window is not displayed
+Demonstrate the problem in [Vaadin GitHub issue #11212 - The Tooltip of a MenuItem inside a Window is not displayed](https://github.com/vaadin/framework/issues/11212)
 
 
 Workflow

@@ -11,7 +11,7 @@
 	<description>Demonstrates a simple Vaadin project to demonstrate tooltips in menuitems dont show in dialogs (GitHub Issue #11212)</description>
 
 	<properties>
-		<vaadin.version>8.8.5</vaadin.version>
+		<vaadin.version>8.9.4</vaadin.version>
 		<vaadin.plugin.version>${vaadin.version}</vaadin.plugin.version>
 		<jetty.plugin.version>9.3.9.v20160517</jetty.plugin.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
